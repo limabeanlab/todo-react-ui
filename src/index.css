@@ -99,7 +99,7 @@ body {
 }
 .btn__primary {
   color: #fff;
-  background-color: #000;
+  background-color: #12523A;
 }
 .btn-group {
   display: flex;
@@ -148,7 +148,7 @@ body {
 }
 /* END GLOBAL STYLES */
 .todoapp {
-  background: #fff;
+  background: #ADEAC1;
   margin: 2rem 0 4rem 0;
   padding: 1rem;
   position: relative;
